@@ -1,0 +1,8 @@
+body {
+  padding: 50px;
+}
+
+.principal {
+  padding: 40px 15px; /*40px em cima e em baixo e 15px na esquerda e direita*/
+  text-align: center;
+}
